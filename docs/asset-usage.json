@@ -1,0 +1,1580 @@
+[
+  {
+    "file": "incoming/stickers_split_png/sticker_001.png",
+    "asset": "asset:collection:details:1",
+    "chapter": "CH-000",
+    "sha256": "a2b33dcd684aa25a1662a4b8b8fd30c50f5b7c34f3dc73122c7ecdf1bd6c4b47"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_002.png",
+    "asset": "asset:collection:details:2",
+    "chapter": "CH-001",
+    "sha256": "91e1799031a8a01fbc370bc185ce5534e7278456c2d21124a3c141f7e96c040d"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_003.png",
+    "asset": "asset:collection:details:3",
+    "chapter": "CH-002",
+    "sha256": "e7b2f316a3b11635e89791c93fc283ba913fb8ce65d79b574c6587e37751f55c"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_004.png",
+    "asset": "asset:collection:details:4",
+    "chapter": "CH-003",
+    "sha256": "a7900f544fdbf4a4c0b79531cc9a5efd1291dd3528a1187cdae1a144d01bc6df"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_005.png",
+    "asset": "asset:collection:details:5",
+    "chapter": "CH-004",
+    "sha256": "0d1a0010d9fa420b56c73e79ffb17a1a4e30a6fb2c34518cef000feecaca3cc4"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_006.png",
+    "asset": "asset:collection:details:6",
+    "chapter": "CH-005",
+    "sha256": "5a0c6ff61ed011d05c92bd385ca415f0d492bcb1216f40e69e5272a085711405"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_007.png",
+    "asset": "asset:collection:details:7",
+    "chapter": "CH-006",
+    "sha256": "39396217ad617dcc4d1dfd880a9f3405359718d234d537c9304f224cb4d6cd72"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_008.png",
+    "asset": "asset:collection:details:8",
+    "chapter": "CH-007",
+    "sha256": "466138055dd6cec33bf7df9d4bfbedcbbf3d5464bc9406d118d9b048c94c25c7"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_009.png",
+    "asset": "asset:collection:details:9",
+    "chapter": "CH-008",
+    "sha256": "9354074f0347e1737bd0cc121088f2dd9a45eeaccb7b4f496bcd0c9d7073d0cc"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_010.png",
+    "asset": "asset:collection:details:10",
+    "chapter": "CH-009",
+    "sha256": "3e38d701ee702fbd1b165b056163344e2b76296f328af9368f8dc2256d099516"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_011.png",
+    "asset": "asset:collection:details:11",
+    "chapter": "CH-010",
+    "sha256": "65938e20f2df37bb30e7642e5365cfa944e39e7826a102bcde7ca9ac3aa0615b"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_012.png",
+    "asset": "asset:collection:details:12",
+    "chapter": "CH-011",
+    "sha256": "450c2bd4b554db874ff9cd5b473bb2c6009815e6a539e893c81221f72dd7776d"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_013.png",
+    "asset": "asset:collection:details:13",
+    "chapter": "CH-012",
+    "sha256": "439e6d4ed2f3a4fedbe321325d1b2f005cdf5a6704c0c3d43d507e7c59b17d01"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_014.png",
+    "asset": "asset:collection:details:14",
+    "chapter": "CH-014",
+    "sha256": "3c67f6d6b3d3c75c684e4d8b4024cf04f75dfda11f4233b2a7865f20a8d3d46f"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_015.png",
+    "asset": "asset:collection:details:15",
+    "chapter": "CH-016",
+    "sha256": "3f6f9bae2f8d06e7556a49f8f35e334da704d0e8ce67f71e034288ae721744e8"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_016.png",
+    "asset": "asset:collection:details:16",
+    "chapter": "CH-017",
+    "sha256": "5ba1d96de734f294dcd84ce5fabca318a6e0465e04749d4699dd03b2a0e2f2cf"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_017.png",
+    "asset": "asset:collection:details:17",
+    "chapter": "CH-018",
+    "sha256": "b57f71bcc6875095010f18814cebdffb2358fc6b065ba113cd7669f25e914634"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_018.png",
+    "asset": "asset:collection:details:18",
+    "chapter": "CH-019",
+    "sha256": "b5c048d01ad922c1f13b7eac9808e9e55f598edf0e423628653b1a295a01fa1a"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_019.png",
+    "asset": "asset:collection:details:19",
+    "chapter": "CH-020",
+    "sha256": "fd908c2e269a1da81771d1b4921d9c3c96ef519d06dd0d203728c73843d0e4b2"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_020.png",
+    "asset": "asset:collection:details:20",
+    "chapter": "CH-021",
+    "sha256": "65be2e24b920c0154c17155894e72826bd1e07ef4f46186e6c94deaf8ce2beb4"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_021.png",
+    "asset": "asset:collection:details:21",
+    "chapter": "CH-022",
+    "sha256": "d144ed23a154d4011fb3726ef412496d9bfcdcc67a1d212549f4e4da8d15a62f"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_022.png",
+    "asset": "asset:collection:details:22",
+    "chapter": "CH-023",
+    "sha256": "ba7e760a2abde178b4bd87e33c2f82f87225b67bf0cd7a93134ab6cac22d7ea0"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_023.png",
+    "asset": "asset:collection:details:23",
+    "chapter": "CH-024",
+    "sha256": "54d72f2236960c2df8395cd746f6b107c85e42e465dac8387636fc2c59c567cd"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_024.png",
+    "asset": "asset:collection:details:24",
+    "chapter": "CH-026",
+    "sha256": "ce4a840f312928d137b0f5d6aa2f70b053facf9dd3ef16c0c2e8cd1b77c5fa44"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_025.png",
+    "asset": "asset:collection:details:25",
+    "chapter": "CH-027",
+    "sha256": "6b2caf0b89be045ea72430c87d738dd7b7df43b3cccd4a0d2eb2d3c74b555172"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_026.png",
+    "asset": "asset:collection:details:26",
+    "chapter": "CH-028",
+    "sha256": "42ab5b6b0548b91e31bf55257978834e27a2179e6b3afc1b8b4f2023bd424b16"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_027.png",
+    "asset": "asset:collection:details:27",
+    "chapter": "CH-029",
+    "sha256": "2063afa591162312383889bb6f79a3af7d08bf659e8a76afd635924c8e627557"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_028.png",
+    "asset": "asset:collection:details:28",
+    "chapter": "CH-030",
+    "sha256": "74b89c56f4ab05e2ce06d0c1015e378333d8d79a6ef5f0e54759cea322b2ef02"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_029.png",
+    "asset": "asset:collection:details:29",
+    "chapter": "CH-031",
+    "sha256": "046aeebaeb1f4375df6ecb6bbc7e01881af25a5af32f241559d05bd7d575ef8b"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_030.png",
+    "asset": "asset:collection:details:30",
+    "chapter": "CH-032",
+    "sha256": "6d0fe06c51e8f9c288a96ae4c3caf9189d8f75c7ad6f87bf5537ac112b99b8a7"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_031.png",
+    "asset": "asset:collection:details:31",
+    "chapter": "CH-034",
+    "sha256": "5c42378d1888f17b319aa1efffc2d84d9ae50f29c997a05d597554d79d6a47b3"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_032.png",
+    "asset": "asset:collection:details:32",
+    "chapter": "CH-000",
+    "sha256": "ffcef8e6c58eac8d150fcd6ba53bb75ed2aaaeb2382eecff4e7e9b286322a372"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_033.png",
+    "asset": "asset:collection:details:33",
+    "chapter": "CH-001",
+    "sha256": "b0c1e3c141e347e586c6db8ab92ea989aba15f3625d307b635ef892bb8982029"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_034.png",
+    "asset": "asset:collection:details:34",
+    "chapter": "CH-002",
+    "sha256": "429a1429b72a408dfd218440dc92f8fbca2a3d9e5268137fa16b91a1226178bb"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_035.png",
+    "asset": "asset:collection:details:35",
+    "chapter": "CH-003",
+    "sha256": "c1455473f01dcc329a458909e67c323d719fbcb4255cc6a5dc975b87a6bc6a0a"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_036.png",
+    "asset": "asset:collection:details:36",
+    "chapter": "CH-004",
+    "sha256": "de9a2e0a3183bf81f4f163d0970d04999502c2ceeebe63a27952287c6427f4db"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_037.png",
+    "asset": "asset:collection:details:37",
+    "chapter": "CH-005",
+    "sha256": "0dc9471e48978d81a0762755e3c3f13f46df2b32f19aad639f8d05d4679dc363"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_038.png",
+    "asset": "asset:collection:details:38",
+    "chapter": "CH-006",
+    "sha256": "c865b7afe29177f2d048bfa9d07e064610b1aa37a33d1325b9266f6dbba087f0"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_039.png",
+    "asset": "asset:collection:details:39",
+    "chapter": "CH-007",
+    "sha256": "4295b53c86a0f34b148ebbf6c11b87f9bec672b329ba11bcd55b077834f78c24"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_040.png",
+    "asset": "asset:collection:details:40",
+    "chapter": "CH-008",
+    "sha256": "fcf1c0a626c9faaa410e3955feafa01178e8a2892e09f1d8c9e05513e4f00d55"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_041.png",
+    "asset": "asset:collection:details:41",
+    "chapter": "CH-009",
+    "sha256": "9f517be8d41139e2bb4c6cfdee6a847e9fef6d47526668a08261cfbdecfd342f"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_042.png",
+    "asset": "asset:collection:details:42",
+    "chapter": "CH-010",
+    "sha256": "5628f1cde0e52acb5bb07a6ae8a370a840ed621d0040bc0b45212789c65c0e99"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_043.png",
+    "asset": "asset:collection:details:43",
+    "chapter": "CH-011",
+    "sha256": "ca1ad1e2116206314664ac1d87622914d7efee35cd37ace4af665165c586ba97"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_044.png",
+    "asset": "asset:collection:details:44",
+    "chapter": "CH-012",
+    "sha256": "178b18d888293c77ff7d868de2524cb4f3e1333a2938535cd37e05c79a9124b6"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_045.png",
+    "asset": "asset:collection:details:45",
+    "chapter": "CH-014",
+    "sha256": "93e9930e5886a03b0dc49a1a41a8f4d5041d6fb51f21c96c6412cb1ff063e210"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_046.png",
+    "asset": "asset:collection:details:46",
+    "chapter": "CH-016",
+    "sha256": "563607512b4292135e21409fb27d187b27049b056b06ce98be733f9576ed1245"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_047.png",
+    "asset": "asset:collection:details:47",
+    "chapter": "CH-017",
+    "sha256": "e98ac03ae5b112ecffb21ac4fc3e1be696b84e1926a8f6d79f666612e3a7a289"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_048.png",
+    "asset": "asset:collection:details:48",
+    "chapter": "CH-018",
+    "sha256": "45ed85eeead8abffe642d75ec883963515785c61392830f0e846ca3fe2ac1dfe"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_049.png",
+    "asset": "asset:collection:details:49",
+    "chapter": "CH-019",
+    "sha256": "075d3e83aca90c5460e0ef861c5286ad4b751a4acdc5758a2f6b6de8fa5b3e99"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_050.png",
+    "asset": "asset:collection:details:50",
+    "chapter": "CH-020",
+    "sha256": "1639c4ad9718e2d1eb090b6a93289d9c79b7a978bf5c18e87e9d9c41a57c988f"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_051.png",
+    "asset": "asset:collection:details:51",
+    "chapter": "CH-021",
+    "sha256": "0310d1028e813455fc43271d6f0d5a5d1912ac5435ab1ef5a584d5024cb32901"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_052.png",
+    "asset": "asset:collection:details:52",
+    "chapter": "CH-022",
+    "sha256": "61c6d92f0d86fd161474ccd2a7407f382f086fd2e0ed99d41d0887f10d723f50"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_053.png",
+    "asset": "asset:collection:details:53",
+    "chapter": "CH-023",
+    "sha256": "7a639529d27b24b55363ed7c8e7c1e215e4cf900dd19d05ac9eb4e59ada36607"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_054.png",
+    "asset": "asset:collection:details:54",
+    "chapter": "CH-024",
+    "sha256": "a0fc833c3613ddbd10c52f8cef07d58c2aa49e448018efaef5a9c155888b052f"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_055.png",
+    "asset": "asset:collection:details:55",
+    "chapter": "CH-026",
+    "sha256": "645a1c4125f79339101136bb32fe5ee8f857f2658454d312b1136704cd63f0b7"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_056.png",
+    "asset": "asset:collection:details:56",
+    "chapter": "CH-027",
+    "sha256": "ea6a4071798fb73967c073dbdfee9a301a0948e2c81bdf8f331eb8fd634383f9"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_057.png",
+    "asset": "asset:collection:details:57",
+    "chapter": "CH-028",
+    "sha256": "1b7f46136aefc021b894c1719e83cdd6283e0158b160956af2921e43944a4d41"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_058.png",
+    "asset": "asset:collection:details:58",
+    "chapter": "CH-029",
+    "sha256": "12d9ecc7c3b29affe5da3eb7c8e08c7b4783e17c561a4d3ebe6cd5d45595b4ae"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_059.png",
+    "asset": "asset:collection:details:59",
+    "chapter": "CH-030",
+    "sha256": "5c06d386babb4425f01714eaf87701c9fba203bd4347c662a57786b719d43326"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_060.png",
+    "asset": "asset:collection:details:60",
+    "chapter": "CH-031",
+    "sha256": "1a9a96dffb3074af49adb8dfbbf5f6e6d58576595f349d8316835e2513a7a485"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_061.png",
+    "asset": "asset:collection:details:61",
+    "chapter": "CH-032",
+    "sha256": "13c199a0b8fbdb638b8c419fceba6c41fbdb4836b8788b47f9fcface9b105b71"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_062.png",
+    "asset": "asset:collection:details:62",
+    "chapter": "CH-034",
+    "sha256": "ffe98eeba9a3483055eac518ebb465fc7e1b6a628d424f2bbd1d17460234b45e"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_063.png",
+    "asset": "asset:collection:details:63",
+    "chapter": "CH-000",
+    "sha256": "3c32ec0940677e05695b5cca45a1108067634e551c5b6f538fee087947cf97c3"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_064.png",
+    "asset": "asset:collection:details:64",
+    "chapter": "CH-001",
+    "sha256": "1e461b5157ecce9a61d48852acbe4d942926eb2ae8e0878aec3dc566ab82d611"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_065.png",
+    "asset": "asset:collection:details:65",
+    "chapter": "CH-002",
+    "sha256": "60ec151d5ff6f327475ff2b8a1d3959437afe176597ee36d91934d07c5a96eef"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_066.png",
+    "asset": "asset:collection:details:66",
+    "chapter": "CH-003",
+    "sha256": "2b92f0ef8f86e43d09c85a4acad8507cedc49aaf19d3991531fabd45277edc2b"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_067.png",
+    "asset": "asset:collection:details:67",
+    "chapter": "CH-004",
+    "sha256": "1947d324114674bac65b09c38329a7a7af729e3844d2d3ea38d8e453d1b9d0d0"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_068.png",
+    "asset": "asset:collection:details:68",
+    "chapter": "CH-005",
+    "sha256": "e795a19141b32d5b1002f798e56f8349890b88c20068e40fdba52e29e1f9d0d6"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_069.png",
+    "asset": "asset:collection:details:69",
+    "chapter": "CH-006",
+    "sha256": "c4b5c9d10f9efeb9f565084cd63d935fcc3cc004591c8f49da40f1798d359756"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_070.png",
+    "asset": "asset:collection:details:70",
+    "chapter": "CH-007",
+    "sha256": "55686dc58c94cb4afd2407e425f63eb291b78edd48ed756228caaa2db575faf8"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_071.png",
+    "asset": "asset:collection:details:71",
+    "chapter": "CH-008",
+    "sha256": "63dc49a5d8b59e50fd1cd107b27739e3380c6bd4da868d945a6657e4ad66f7af"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_072.png",
+    "asset": "asset:collection:details:72",
+    "chapter": "CH-009",
+    "sha256": "5ac701d1526754a4f93bfc1000e0d0507a4fefd7e88a9799bef224792401ca43"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_073.png",
+    "asset": "asset:collection:details:73",
+    "chapter": "CH-010",
+    "sha256": "59453a13273e739918630e558a6f0668edd4c96fb3398c81fa09329b42958e2c"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_074.png",
+    "asset": "asset:collection:details:74",
+    "chapter": "CH-011",
+    "sha256": "4a28bf58c9550f11450f1a3c0d2ae47d73dce0c32c185af54dec6bee58058d05"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_075.png",
+    "asset": "asset:collection:details:75",
+    "chapter": "CH-012",
+    "sha256": "c7320a09c32b62f32ab835534aa4f84bc7413a1e8c9f359ed37c8a6681ae8c51"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_076.png",
+    "asset": "asset:collection:details:76",
+    "chapter": "CH-014",
+    "sha256": "6000b53978d7a1107a7fc936777f2850cc298c8a0fc50a3b45f225de354b50bb"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_077.png",
+    "asset": "asset:collection:details:77",
+    "chapter": "CH-016",
+    "sha256": "6497e932f72aa53c8656c53bcab69a55285ef5432541f05fae8a74713c62bc9e"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_078.png",
+    "asset": "asset:collection:details:78",
+    "chapter": "CH-017",
+    "sha256": "2052f3d15a319333b50b0856defbe7e5f7738b700942f9dd1c00b87704c455f9"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_079.png",
+    "asset": "asset:collection:details:79",
+    "chapter": "CH-018",
+    "sha256": "0553d45e92e5c3b7f2111a52d36d70f72e48c431f3084d4174591ade5f0703b2"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_080.png",
+    "asset": "asset:collection:details:80",
+    "chapter": "CH-019",
+    "sha256": "ffacd594f9e4de26d1a74c016f2cd0377dcbb032b1c51916ae2b60d06da893f5"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_081.png",
+    "asset": "asset:collection:details:81",
+    "chapter": "CH-020",
+    "sha256": "4f53647c98e129fc3c7315b2e10d7fa011f1b2246d25dd39d0ef7db4ae82bf55"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_082.png",
+    "asset": "asset:collection:details:82",
+    "chapter": "CH-021",
+    "sha256": "cba1787d6aad5ca322d0d065e77d1358237c9f321c338ed1d6c46fa1bed24c20"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_083.png",
+    "asset": "asset:collection:details:83",
+    "chapter": "CH-022",
+    "sha256": "19c82b2bb5aa7b10f76b4f48eaf4f6953253981fc8127f3b630ce58092b1a40c"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_084.png",
+    "asset": "asset:collection:details:84",
+    "chapter": "CH-023",
+    "sha256": "0b9be882f5b0d1d3d8c8801a7551f5bb54fffcc26decc20c1b4e485f430b78fc"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_085.png",
+    "asset": "asset:collection:details:85",
+    "chapter": "CH-024",
+    "sha256": "e92fcd54e9353a0fea24aaedb9dc14fb94d79d50b8c3467b6efa414c2b17cd07"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_086.png",
+    "asset": "asset:collection:details:86",
+    "chapter": "CH-026",
+    "sha256": "5897087d4bef026f82793a8149486e48d06af84d986c1bc263d1f70fb36767a1"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_087.png",
+    "asset": "asset:collection:details:87",
+    "chapter": "CH-027",
+    "sha256": "42a2e680910d8c4771aed7125dc05b540f2d53328a66cc6f9ebb8b2eb840f048"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_088.png",
+    "asset": "asset:collection:details:88",
+    "chapter": "CH-028",
+    "sha256": "168654503432a6d875d70ae148a6fc09878a49cf529723ca7add447455064e84"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_089.png",
+    "asset": "asset:collection:details:89",
+    "chapter": "CH-029",
+    "sha256": "f0a18c55199e67e453a9a7c42e72938cb1c26196a2055c7373e46d9fb79a6452"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_090.png",
+    "asset": "asset:collection:details:90",
+    "chapter": "CH-030",
+    "sha256": "bd74feadf17d20c57b5bcc067754e4580dcd149f84beea8f6af5d6b6d161219b"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_091.png",
+    "asset": "asset:collection:details:91",
+    "chapter": "CH-031",
+    "sha256": "1fe8b735f06ea9d6fccdacbdd39e2754815009f2cbf162338b3e90568ac15d9e"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_092.png",
+    "asset": "asset:collection:details:92",
+    "chapter": "CH-032",
+    "sha256": "7b9bd0ad51c4b41a7992d0f836b93feffdbcf0a8f1ceb53ea513299549ffe625"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_093.png",
+    "asset": "asset:collection:details:93",
+    "chapter": "CH-034",
+    "sha256": "ccf61a82b5adf996a2b4df7f172e2a0d5e39f7a1225ebb8cc98234129526a064"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_094.png",
+    "asset": "asset:collection:details:94",
+    "chapter": "CH-000",
+    "sha256": "eb4a14b1f2f5310a94d7a8d5b0272515532d5c87a0a2a156186213a2d6854ca5"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_095.png",
+    "asset": "asset:collection:details:95",
+    "chapter": "CH-001",
+    "sha256": "35c1293a8e9aae83519c73c6b28a01c8339b436f53d8c5e2291ad82e34950fea"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_096.png",
+    "asset": "asset:collection:details:96",
+    "chapter": "CH-002",
+    "sha256": "ec8985bf8d76a61c0b5fa2038ea7b5125c68c7e82c5e3060424a4cfbee41194f"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_097.png",
+    "asset": "asset:collection:details:97",
+    "chapter": "CH-003",
+    "sha256": "4a516d2f13c49c11024078849e9580e8b8b8202417ac491e7fdab99257decce1"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_098.png",
+    "asset": "asset:collection:details:98",
+    "chapter": "CH-004",
+    "sha256": "e31580ea5e5bacbf6a3c49fbed884608694968c922387be82aee0f5da0d07436"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_099.png",
+    "asset": "asset:collection:details:99",
+    "chapter": "CH-005",
+    "sha256": "93cbe45f61adcbea0af7179718d045c3ac74a16c769d18e1717320fc0cde234f"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_100.png",
+    "asset": "asset:collection:details:100",
+    "chapter": "CH-006",
+    "sha256": "7aa574b03dd341f7cf9f78b0948f0be912a3d24cafc54a23b79422fe87f0b0f7"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_101.png",
+    "asset": "asset:collection:details:101",
+    "chapter": "CH-007",
+    "sha256": "06a9ef647b053032e5a2894bac9c2282d541082fddca4ecb1bda014c80e279f3"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_102.png",
+    "asset": "asset:collection:details:102",
+    "chapter": "CH-008",
+    "sha256": "18ca5d43eee9e7b1f1953f795f668103c05797f5bfdb6d295b04a7de7e3756fe"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_103.png",
+    "asset": "asset:collection:details:103",
+    "chapter": "CH-009",
+    "sha256": "e543f15ee5a3d5b595dd3948e35550469b9dc713eae35a57eb6f1431bc7f80d9"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_104.png",
+    "asset": "asset:collection:details:104",
+    "chapter": "CH-010",
+    "sha256": "2e0782f06eea275b114880fa83273405a948b6a15bfd606c7940330493327ebf"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_105.png",
+    "asset": "asset:collection:details:105",
+    "chapter": "CH-011",
+    "sha256": "37a5e96690e224583715a74441f81c3a6c201a8d0c12f50ffaaf49e099616a83"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_106.png",
+    "asset": "asset:collection:details:106",
+    "chapter": "CH-012",
+    "sha256": "ff9e5f93705e49535b13d9410c8fda2c2deb5b282e2f9ffc9803c0728a717d5d"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_107.png",
+    "asset": "asset:collection:details:107",
+    "chapter": "CH-014",
+    "sha256": "9cc1680f1121777002e8d0c90d0dda04f32379e7cac2306f95183c42a18ab131"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_108.png",
+    "asset": "asset:collection:details:108",
+    "chapter": "CH-016",
+    "sha256": "7a77b75552a7a9805f4c0fd8afcc6cc011d1e3ff7fd9e057b7d3b84d681e9ecd"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_109.png",
+    "asset": "asset:collection:details:109",
+    "chapter": "CH-017",
+    "sha256": "8703bee2b96a88d69874cbec13fbec100000917e63004674f3a08baabe7dd796"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_110.png",
+    "asset": "asset:collection:details:110",
+    "chapter": "CH-018",
+    "sha256": "36adf0e9c35e4fa49308eab8aaee509b707a3dd415c19e36238143fa003f4d44"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_111.png",
+    "asset": "asset:collection:details:111",
+    "chapter": "CH-019",
+    "sha256": "6823aa94f05b3328cdd54f6d822d799f661873e9e10a5f11a684d25aba487a44"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_112.png",
+    "asset": "asset:collection:details:112",
+    "chapter": "CH-020",
+    "sha256": "53f66605070c1ad6879b90a9896a201e20a411d76f0fed710435ae26fafe20b5"
+  },
+  {
+    "file": "incoming/stickers_split_png/sticker_113.png",
+    "asset": "asset:collection:details:113",
+    "chapter": "CH-021",
+    "sha256": "87674e4f830c80fa6f76c777af9d056acc9785675503ae20b55ebaf8bc81c922"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/001_we_bare_bears.gif",
+    "asset": "asset:collection:bears:1",
+    "chapter": "CH-000",
+    "sha256": "bcf46726a04028fc0c2183eb8e9ed7a893272b8e1bdf03b7fc6d9162df35efbc"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/002_we_bare_bears.gif",
+    "asset": "asset:collection:bears:2",
+    "chapter": "CH-001",
+    "sha256": "c5cc84fbea4b458159276b6a1ddeb59ffccedd6d09455d477b4be0c4ad64a62b"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/003_we_bare_bears.gif",
+    "asset": "asset:collection:bears:3",
+    "chapter": "CH-002",
+    "sha256": "218f4f26564c5a41f85a9a470c95b6cdf603a7167c86b940e51df0c79497bea4"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/004_we_bare_bears.gif",
+    "asset": "asset:collection:bears:4",
+    "chapter": "CH-003",
+    "sha256": "df732536cea5626ed6215eb3689969cd48fada8a55901a3a434b7edc00426c15"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/005_we_bare_bears.gif",
+    "asset": "asset:collection:bears:5",
+    "chapter": "CH-004",
+    "sha256": "102756c4c65c1ad77dba4804830b8cecd7e71e4d424be469a1a48ef7eb3002ce"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/006_we_bare_bears.gif",
+    "asset": "asset:collection:bears:6",
+    "chapter": "CH-005",
+    "sha256": "e1f9c0f0fc0f80f5d70d7333c01d1ba1e840d73b7322a018874cf2c41f4660b1"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/007_we_bare_bears.gif",
+    "asset": "asset:collection:bears:7",
+    "chapter": "CH-006",
+    "sha256": "c97338b4effc27ec37758b08fb5952b7862bc655baaf702e6e177193c1d527ef"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/008_we_bare_bears.gif",
+    "asset": "asset:collection:bears:8",
+    "chapter": "CH-007",
+    "sha256": "be0e385f8b2242e771d619d24a95e87d7ce1fea4e669482523ab9e49a8ad57b5"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/009_we_bare_bears.gif",
+    "asset": "asset:collection:bears:9",
+    "chapter": "CH-008",
+    "sha256": "60a9da405ac36ce8b5c9afc595e85400104e399b929f0336d5bd299bada5fb88"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/010_we_bare_bears.gif",
+    "asset": "asset:collection:bears:10",
+    "chapter": "CH-009",
+    "sha256": "6f32e2b9bd86c61e5d6bd848aaff2d24af682935f43d8d38ee330175a1f5a340"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/011_we_bare_bears.gif",
+    "asset": "asset:collection:bears:11",
+    "chapter": "CH-010",
+    "sha256": "feb95f92690382431a05d0585b09afdd52f4a87bd7e28ba2e38b04de97e17d8b"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/012_we_bare_bears.gif",
+    "asset": "asset:collection:bears:12",
+    "chapter": "CH-011",
+    "sha256": "88d4360aef71292bc268b80b0bd5a6ddf687b9d0ae268a485f9e1b18d4c82132"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/013_we_bare_bears.gif",
+    "asset": "asset:collection:bears:13",
+    "chapter": "CH-012",
+    "sha256": "bff91ed4281459f7b490ed2681831733f0eb30d5187516ebdfde4216b0b6e910"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/014_we_bare_bears.gif",
+    "asset": "asset:collection:bears:14",
+    "chapter": "CH-014",
+    "sha256": "6e60d896a441def53c1c1d0ecb5416c9d9294da33f0049a39b3c1df70c18f448"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/015_we_bare_bears.gif",
+    "asset": "asset:collection:bears:15",
+    "chapter": "CH-016",
+    "sha256": "1292f8c1d8ee5073d1168f28d93b96522d34007a33bef3d093338d3bf40d7a61"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/016_we_bare_bears.gif",
+    "asset": "asset:collection:bears:16",
+    "chapter": "CH-017",
+    "sha256": "04394553d74a6295ce2641df41495da420833e79dc09f63d7c77510cbcb9e085"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/017_we_bare_bears.gif",
+    "asset": "asset:collection:bears:17",
+    "chapter": "CH-018",
+    "sha256": "cc5d4a042c92da21a0b1f4e328fb5d9380a0da7151ada68e0cf2206ca9cf0e09"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/018_we_bare_bears.gif",
+    "asset": "asset:collection:bears:18",
+    "chapter": "CH-019",
+    "sha256": "75b81706056060a262e2f19419661363894da635fdb7ce7f60d7e33a009c59b5"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/019_we_bare_bears.gif",
+    "asset": "asset:collection:bears:19",
+    "chapter": "CH-020",
+    "sha256": "019929c24bf67ddc4ede22d42575b91870b52fe32e1e308bf8912239e7956b25"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/020_we_bare_bears.gif",
+    "asset": "asset:collection:bears:20",
+    "chapter": "CH-021",
+    "sha256": "99d1081555273c0f5bdab3a1d62184e17fdd53d4508f30cbd8017201ed321385"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/021_we_bare_bears.gif",
+    "asset": "asset:collection:bears:21",
+    "chapter": "CH-022",
+    "sha256": "c5c4dbfd3a657052b2876014f84b975d17074f0f344546e00dc956e9909ac4df"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/022_we_bare_bears.gif",
+    "asset": "asset:collection:bears:22",
+    "chapter": "CH-023",
+    "sha256": "1af41d901f05c51d48754a51dc5bfa37c85223e7d61d5e8f5a0fc2b30fc5c245"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/023_we_bare_bears.gif",
+    "asset": "asset:collection:bears:23",
+    "chapter": "CH-024",
+    "sha256": "6aa20796b408eb2a30874afd2fb06f9ef681d938d2914f4f9495ead34b314824"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/024_we_bare_bears.gif",
+    "asset": "asset:collection:bears:24",
+    "chapter": "CH-026",
+    "sha256": "883dafc63e95cff80c5309af8b819d1e9ad50df9df3082ce94fcc86dac313b8d"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/025_we_bare_bears.gif",
+    "asset": "asset:collection:bears:25",
+    "chapter": "CH-027",
+    "sha256": "5065a91425cc304fd0cacb5c81c25e837d20a45d0922243ab4a7c70c644874dd"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/026_we_bare_bears.gif",
+    "asset": "asset:collection:bears:26",
+    "chapter": "CH-028",
+    "sha256": "9e347e4e255b6d34c8554f939cd557dc33f3ac563e21d065c98436ee81d052da"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/027_we_bare_bears.gif",
+    "asset": "asset:collection:bears:27",
+    "chapter": "CH-029",
+    "sha256": "98491de24eebf0cca89033f9596a399605556cf939293e4de3cb767e942e67d7"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/028_we_bare_bears.gif",
+    "asset": "asset:collection:bears:28",
+    "chapter": "CH-030",
+    "sha256": "dc38387a33465170cadbb832ca28d065b87a31bee07b138a9bc0da0c232bd887"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/029_we_bare_bears.gif",
+    "asset": "asset:collection:bears:29",
+    "chapter": "CH-031",
+    "sha256": "d24efd69133c0debe54a6e23235a6b267567e6eaf669570fbe85903a19da3626"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/030_we_bare_bears.gif",
+    "asset": "asset:collection:bears:30",
+    "chapter": "CH-032",
+    "sha256": "0713940d49db3bff1548acd0bc39b5a567e028cdb8b5f1763bb67b9684d70605"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/031_we_bare_bears.gif",
+    "asset": "asset:collection:bears:31",
+    "chapter": "CH-034",
+    "sha256": "b93338859870bd1b94bc19ed7a9e48f7b852a4c8f846b19d533511710716b865"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/032_we_bare_bears.gif",
+    "asset": "asset:collection:bears:32",
+    "chapter": "CH-000",
+    "sha256": "e732675e13aa03d440bd60df78d4acd38c49da6e96d094fe0c507a7182d4f9f5"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/033_we_bare_bears.gif",
+    "asset": "asset:collection:bears:33",
+    "chapter": "CH-001",
+    "sha256": "b339692e31ef08f120bf16c27f3c93a907beda48af770356b2a1be48142f98ca"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/034_we_bare_bears.gif",
+    "asset": "asset:collection:bears:34",
+    "chapter": "CH-002",
+    "sha256": "7e3531f049937d6e1fbca5741560ab02d58e3ef6a395eae4107c6ee55b6f8c69"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/035_we_bare_bears.gif",
+    "asset": "asset:collection:bears:35",
+    "chapter": "CH-003",
+    "sha256": "9650c3a8f4a04ec998246f0e7303f30e9dde2df193e710e224a5aa2bc72319fb"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/036_we_bare_bears.gif",
+    "asset": "asset:collection:bears:36",
+    "chapter": "CH-004",
+    "sha256": "d70f43dfb364edcb6b1bf75fa13ec17c73e741762bb10e8d0987bec44cd1375e"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/037_we_bare_bears.gif",
+    "asset": "asset:collection:bears:37",
+    "chapter": "CH-005",
+    "sha256": "e99071aabc1e9c3b65193cc1105f03b9e342ab702f02ea029450d9a31deec8b1"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/038_we_bare_bears.gif",
+    "asset": "asset:collection:bears:38",
+    "chapter": "CH-006",
+    "sha256": "b69b795df9dc9fb60bc91857a5df8f38fe56c8464344a16d8fe49dadf4fe97b5"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/039_we_bare_bears.gif",
+    "asset": "asset:collection:bears:39",
+    "chapter": "CH-007",
+    "sha256": "2240d8fb1380feb33dd0aa7edc2fc89b34b0b3eba77d1c76a4844b5b1e390c56"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/040_we_bare_bears.gif",
+    "asset": "asset:collection:bears:40",
+    "chapter": "CH-008",
+    "sha256": "2fa307b6ce1f50cd8c90ece177da6fbb58f3d03cf3d10422781a6db519d493e0"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/041_we_bare_bears.gif",
+    "asset": "asset:collection:bears:41",
+    "chapter": "CH-009",
+    "sha256": "727e6e4401dd0d7f74e0f7b32358329de3d3a9fd4b0c8dea76b87fc7208c33f2"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/042_we_bare_bears.gif",
+    "asset": "asset:collection:bears:42",
+    "chapter": "CH-010",
+    "sha256": "82aab3ef4a54ad5d8293bbc1addafbc68c5e19f229f08b9975dac6d19f030f31"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/043_we_bare_bears.gif",
+    "asset": "asset:collection:bears:43",
+    "chapter": "CH-011",
+    "sha256": "6afe6fe2143f216033cb0f95d9a7f150645800966a93c3cc72caee58e1567474"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/044_we_bare_bears.gif",
+    "asset": "asset:collection:bears:44",
+    "chapter": "CH-012",
+    "sha256": "dd2e51b588613814adae680402a699b5f2bbdc1bc34917f415f7f7388e832e60"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/045_we_bare_bears.gif",
+    "asset": "asset:collection:bears:45",
+    "chapter": "CH-014",
+    "sha256": "a627acf896ef4ac62737c87ba8e0c301ded42956835ea22b1662554b50b168a8"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/046_we_bare_bears.gif",
+    "asset": "asset:collection:bears:46",
+    "chapter": "CH-016",
+    "sha256": "cb0c9f9fee9a4d08eb61cfa2e6680e9950d030f3ff898e6731a425915191173e"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/047_we_bare_bears.gif",
+    "asset": "asset:collection:bears:47",
+    "chapter": "CH-017",
+    "sha256": "f3428f53db3f50745d027281222fa69cf6be9761436cd2eab4647cf4135b48c4"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/048_we_bare_bears.gif",
+    "asset": "asset:collection:bears:48",
+    "chapter": "CH-018",
+    "sha256": "7f7c03963a377a5287273a4309ebfb6b79f01822e853dcd69f640e79c05aa984"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/049_we_bare_bears.gif",
+    "asset": "asset:collection:bears:49",
+    "chapter": "CH-019",
+    "sha256": "794742a67136d073b27aa9ef05e74fa3de1a9afdad83e6049bf5db2102bfd174"
+  },
+  {
+    "file": "incoming/WeBareBears_150/gif/050_we_bare_bears.gif",
+    "asset": "asset:collection:bears:50",
+    "chapter": "CH-020",
+    "sha256": "bc0d344068609a6c4daeba879e83c1b265ce384fc42081ccd21cfcd39752f95f"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/001_we_bare_bears.webp",
+    "asset": "asset:collection:bears:51",
+    "chapter": "CH-021",
+    "sha256": "58b7caf1f0f699aaaa3336f507fddde2ca3d0df07e74390e4cc55d31eb987aac"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/002_we_bare_bears.webp",
+    "asset": "asset:collection:bears:52",
+    "chapter": "CH-022",
+    "sha256": "711ee7a42b512a9be81739bfcd4bb43892a35a6347d674e32703b326e6f9302a"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/003_we_bare_bears.webp",
+    "asset": "asset:collection:bears:53",
+    "chapter": "CH-023",
+    "sha256": "2bc9edfbf1dac7c66f255d273dca65ff7de76822c3d29b4ceb6d58779696dacf"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/004_we_bare_bears.webp",
+    "asset": "asset:collection:bears:54",
+    "chapter": "CH-024",
+    "sha256": "5ca490e3051705ff3406d2000fad1db8bd42999a1eea5a50a61da0cff8621dbe"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/005_we_bare_bears.webp",
+    "asset": "asset:collection:bears:55",
+    "chapter": "CH-026",
+    "sha256": "7b66f42c6d0b80ee9c07c4255c1d69fb5bf33c64dab0dc8c8c20b1901a1977d0"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/006_we_bare_bears.webp",
+    "asset": "asset:collection:bears:56",
+    "chapter": "CH-027",
+    "sha256": "24f7220e491686d2d3edf3a46a7845e7744cac08c2d1f6902acfe1c6500f2f42"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/007_we_bare_bears.webp",
+    "asset": "asset:collection:bears:57",
+    "chapter": "CH-028",
+    "sha256": "1c06600d7059b8a24a3caab121c1b6f5c439579c188c817192a8701e2c50af78"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/008_we_bare_bears.webp",
+    "asset": "asset:collection:bears:58",
+    "chapter": "CH-029",
+    "sha256": "1c0bc549adb28373a914ac9b46b837a53dda575bfbe59f380d6b95ed87feb7f9"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/009_we_bare_bears.webp",
+    "asset": "asset:collection:bears:59",
+    "chapter": "CH-030",
+    "sha256": "df6ecaaeb66a6af92c1199bee099f17718e4fee93547d286db0f075abdd516a0"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/010_we_bare_bears.webp",
+    "asset": "asset:collection:bears:60",
+    "chapter": "CH-031",
+    "sha256": "5c69e1e04c8bda5f456a9efeb83010fd41c1756b66f20ee41efeaaa9a753ff8c"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/011_we_bare_bears.webp",
+    "asset": "asset:collection:bears:61",
+    "chapter": "CH-032",
+    "sha256": "6c51a7cab1a3dea004d3c62015a64df047a93299c53702cb7fda0af560112332"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/012_we_bare_bears.webp",
+    "asset": "asset:collection:bears:62",
+    "chapter": "CH-034",
+    "sha256": "b8b32cd78aea827a6a1957817f2ccf4f5765cca909d05de6ac1da0c94c9f0e09"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/013_we_bare_bears.webp",
+    "asset": "asset:collection:bears:63",
+    "chapter": "CH-000",
+    "sha256": "4e5c5837bc5fcaaa7120cc24c3ad7f1c9b4229c457c7796362988c470804b4b6"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/014_we_bare_bears.webp",
+    "asset": "asset:collection:bears:64",
+    "chapter": "CH-001",
+    "sha256": "fa883e938af547e70ca04d971f33414031e1e4a975a33049b24f17768681e475"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/015_we_bare_bears.webp",
+    "asset": "asset:collection:bears:65",
+    "chapter": "CH-002",
+    "sha256": "60451a111caaaf7f2e77faaa8a9fd2a2d58eea86d51c6ab925ffe5fd553f4dd0"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/016_we_bare_bears.webp",
+    "asset": "asset:collection:bears:66",
+    "chapter": "CH-003",
+    "sha256": "00bd5765e6c9e74d3b61147379a3c3a17db16e0e51594053cf04b804fd8fe13a"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/017_we_bare_bears.webp",
+    "asset": "asset:collection:bears:67",
+    "chapter": "CH-004",
+    "sha256": "89643b4c13b939a0e51265d56ec55048ef0b8387709fd28e251d1fd1697cfc63"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/018_we_bare_bears.webp",
+    "asset": "asset:collection:bears:68",
+    "chapter": "CH-005",
+    "sha256": "a9c12663027f63aec48396618f7c8687693e9d452403e85edd93f077d1c9dce1"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/019_we_bare_bears.webp",
+    "asset": "asset:collection:bears:69",
+    "chapter": "CH-006",
+    "sha256": "b5d46d1229afacf802336fdfe68427fa68f4e40803bc1a771063908c6a8e920c"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/020_we_bare_bears.webp",
+    "asset": "asset:collection:bears:70",
+    "chapter": "CH-007",
+    "sha256": "909deb8b7a4509cb984bfc3cfbca34aac3d579bbc256ee69f871cd5ee3369879"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/021_we_bare_bears.webp",
+    "asset": "asset:collection:bears:71",
+    "chapter": "CH-008",
+    "sha256": "95a653543df84037ce2ea59ba5102e0bc3f88f865df79e405f9c6c60030a5a8d"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/022_we_bare_bears.webp",
+    "asset": "asset:collection:bears:72",
+    "chapter": "CH-009",
+    "sha256": "987ff4e74eee4b15645d862db29b0eb92c245a286bd1fceaf74b83099d4f438c"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/023_we_bare_bears.webp",
+    "asset": "asset:collection:bears:73",
+    "chapter": "CH-010",
+    "sha256": "dce28d888df854de3f92dfa3ffe62f582bf761f54345f4fe6c11dcc5bcfb3996"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/024_we_bare_bears.webp",
+    "asset": "asset:collection:bears:74",
+    "chapter": "CH-011",
+    "sha256": "289e6b1b7956cd8679516e3c4e74bc53660f94321e3a8d9e3a2b179b847301b5"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/025_we_bare_bears.webp",
+    "asset": "asset:collection:bears:75",
+    "chapter": "CH-012",
+    "sha256": "9976c507b52cf4dff9cedae63ddac4244c03e3a198fda893939f1a7d4611cae4"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/026_we_bare_bears.webp",
+    "asset": "asset:collection:bears:76",
+    "chapter": "CH-014",
+    "sha256": "680f1da93da24d9f479171cc52971b9b18197dce729744e3887ff285b3cf00e9"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/027_we_bare_bears.webp",
+    "asset": "asset:collection:bears:77",
+    "chapter": "CH-016",
+    "sha256": "c5ffe8e4327c7ef245ab83748bc1632275b9465398ba05806865be699c74d93c"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/028_we_bare_bears.webp",
+    "asset": "asset:collection:bears:78",
+    "chapter": "CH-017",
+    "sha256": "dec17a56050b555ee053f67d8b536aace8a0aca51a1a2117a69ac23b85603cd4"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/029_we_bare_bears.webp",
+    "asset": "asset:collection:bears:79",
+    "chapter": "CH-018",
+    "sha256": "bc2c1b7c04ffdb7f2519078b443c0d5fafe973c0e932a2a56d1c2845cd8d5375"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/030_we_bare_bears.webp",
+    "asset": "asset:collection:bears:80",
+    "chapter": "CH-019",
+    "sha256": "3ee46318b9ca7ff9e987340495e960061afd674e72072fd30da567eee962b4fc"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/031_we_bare_bears.webp",
+    "asset": "asset:collection:bears:81",
+    "chapter": "CH-020",
+    "sha256": "61db3e6deea75dbc3782c18cb05f84c6fa0ae6c10f150b4ba79e76cff13fa305"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/032_we_bare_bears.webp",
+    "asset": "asset:collection:bears:82",
+    "chapter": "CH-021",
+    "sha256": "96a4f95ecc603ea8c581c52112712728d8b25ebbea546f3a5dc96ebaeb8ef6b0"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/033_we_bare_bears.webp",
+    "asset": "asset:collection:bears:83",
+    "chapter": "CH-022",
+    "sha256": "d31c6eb4c7993176057f2387cb8b0c556dfbd8a82b725e987b25d823e870df41"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/034_we_bare_bears.webp",
+    "asset": "asset:collection:bears:84",
+    "chapter": "CH-023",
+    "sha256": "7792861e5968484ffee7fd7cd356d45ca991959730ba0f43cdcae6aa07682095"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/035_we_bare_bears.webp",
+    "asset": "asset:collection:bears:85",
+    "chapter": "CH-024",
+    "sha256": "e35028abc67b63d427e496b67442646de1448ca253594aa8a8e9fe64f520d692"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/036_we_bare_bears.webp",
+    "asset": "asset:collection:bears:86",
+    "chapter": "CH-026",
+    "sha256": "e1c8f6155414e1e8bec6da531cfc9ac399439d18c989450f852c7eef8ac3f9e4"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/037_we_bare_bears.webp",
+    "asset": "asset:collection:bears:87",
+    "chapter": "CH-027",
+    "sha256": "f2a71af0fde22c747b7f64f83d84890660a8cdc21f194d4400dc2b8a36803268"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/038_we_bare_bears.webp",
+    "asset": "asset:collection:bears:88",
+    "chapter": "CH-028",
+    "sha256": "6e1df3cb0d921b109b28712c1bbb8295c96663091e950e24d7c35f4e7937f267"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/039_we_bare_bears.webp",
+    "asset": "asset:collection:bears:89",
+    "chapter": "CH-029",
+    "sha256": "06f416b85e0d1cc76fffa0113c510065bbb840403a7cbcb76f4caeb97a7631ac"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/040_we_bare_bears.webp",
+    "asset": "asset:collection:bears:90",
+    "chapter": "CH-030",
+    "sha256": "948a43775d40552fcf3370b19e6d81a274523856a4f3104f6bf7cc46bcd33f53"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/041_we_bare_bears.webp",
+    "asset": "asset:collection:bears:91",
+    "chapter": "CH-031",
+    "sha256": "ae8bb3566fafcd7bfcb6daddb4ed22d739478f780ee8eed70d6b88c805bca63d"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/042_we_bare_bears.webp",
+    "asset": "asset:collection:bears:92",
+    "chapter": "CH-032",
+    "sha256": "ad31cd90e78ea08eca494a5b39ecfd47d31605df327654adff98b40dc71b61e3"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/043_we_bare_bears.webp",
+    "asset": "asset:collection:bears:93",
+    "chapter": "CH-034",
+    "sha256": "4529c11998c993bd3a368418222b37b7ca384603652994fa646e3d17c415cd19"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/044_we_bare_bears.webp",
+    "asset": "asset:collection:bears:94",
+    "chapter": "CH-000",
+    "sha256": "d889bfc3e0eef3dc593ebe8fe527fd76afba13c2e766d4461a913e561476245b"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/045_we_bare_bears.webp",
+    "asset": "asset:collection:bears:95",
+    "chapter": "CH-001",
+    "sha256": "65757d7deb2f1e6db707fbc8ba5c9a9cec82aae0212511c1ad2b440642910192"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/046_we_bare_bears.webp",
+    "asset": "asset:collection:bears:96",
+    "chapter": "CH-002",
+    "sha256": "11ca344c769808ec63224e9e6eed7d5641ca5b3312c03bf5b21ff613a75f4055"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/047_we_bare_bears.webp",
+    "asset": "asset:collection:bears:97",
+    "chapter": "CH-003",
+    "sha256": "8be8a1e3f8acacdb3a9e13f58c3a591b0d950ce18c023cb974b109395e0b3a2d"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/048_we_bare_bears.webp",
+    "asset": "asset:collection:bears:98",
+    "chapter": "CH-004",
+    "sha256": "1ff6c26eac94e12f30c0dce13a403872cef92ea736053f575154f9aeaf3dfe4d"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/049_we_bare_bears.webp",
+    "asset": "asset:collection:bears:99",
+    "chapter": "CH-005",
+    "sha256": "e98ae2622d47bd29c58bb5abb2c68a1dde6c8bffb14bb3d6c6f7c4c18b95f225"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/050_we_bare_bears.webp",
+    "asset": "asset:collection:bears:100",
+    "chapter": "CH-006",
+    "sha256": "5824f860cbf5bec07f4797f97ad73c23ea2ce4e1f5db8dd19a2e822a6c643413"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/051_we_bare_bears.webp",
+    "asset": "asset:collection:bears:101",
+    "chapter": "CH-007",
+    "sha256": "7bfc45d950256b7002da0c81d22e78870883363382c4157581f0f039e13a4d68"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/052_we_bare_bears.webp",
+    "asset": "asset:collection:bears:102",
+    "chapter": "CH-008",
+    "sha256": "765f61f12da294f7f3fd9a3d20e8fbc463be80542312f1f9d2b5bddf70ecffa8"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/053_we_bare_bears.webp",
+    "asset": "asset:collection:bears:103",
+    "chapter": "CH-009",
+    "sha256": "e8f3f328919e96e136878d9059a2000c5561354089ec5c9b4ed8b92f8eb451f5"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/054_we_bare_bears.webp",
+    "asset": "asset:collection:bears:104",
+    "chapter": "CH-010",
+    "sha256": "a23b867e8041daff1d7173965793e9dfb85d41a12cf191962a006cf30acc8a14"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/055_we_bare_bears.webp",
+    "asset": "asset:collection:bears:105",
+    "chapter": "CH-011",
+    "sha256": "124d2b010ed9f567fbb5b7a4f855b4595745ab467b16b88164785344e38a4fe3"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/056_we_bare_bears.webp",
+    "asset": "asset:collection:bears:106",
+    "chapter": "CH-012",
+    "sha256": "5a27f9afc77ec053118f1b96af943b87416ca5b4a71ce63e48c469c4e96c8a9b"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/057_we_bare_bears.webp",
+    "asset": "asset:collection:bears:107",
+    "chapter": "CH-014",
+    "sha256": "3baf0e38245a490e2b23af3793294310aca67ca4e703b9981f07c7e2b78bfe0a"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/058_we_bare_bears.webp",
+    "asset": "asset:collection:bears:108",
+    "chapter": "CH-016",
+    "sha256": "2e67e12562042ea93a62810471b0ded6284ee6ae8a16e6f5224a06c12fe26e6b"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/059_we_bare_bears.webp",
+    "asset": "asset:collection:bears:109",
+    "chapter": "CH-017",
+    "sha256": "1f102510440cebe566890a3edec3ffeebb14c182c4e8cbc5195386da11ddfa5f"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/060_we_bare_bears.webp",
+    "asset": "asset:collection:bears:110",
+    "chapter": "CH-018",
+    "sha256": "323e808f30d43fcc866d29120864d17cbaacee211db4c1ba02983deefa95d47f"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/061_we_bare_bears.webp",
+    "asset": "asset:collection:bears:111",
+    "chapter": "CH-019",
+    "sha256": "3ab70756004bac4ea6b463c60304cedf531dbda4d3a71d2443d6b8919fd4dd0e"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/062_we_bare_bears.webp",
+    "asset": "asset:collection:bears:112",
+    "chapter": "CH-020",
+    "sha256": "3c684b434d76c0968eea7c289165dd7ce660661981a4941d73785efc8f16d15f"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/063_we_bare_bears.webp",
+    "asset": "asset:collection:bears:113",
+    "chapter": "CH-021",
+    "sha256": "a1c1ede87ec1167667b9c1a25a8a385dda10d7725752544743275319c3280dc2"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/064_we_bare_bears.webp",
+    "asset": "asset:collection:bears:114",
+    "chapter": "CH-022",
+    "sha256": "19c6aa155219a985e10d0a713cbccdcff5386d3e777889d370e2b228e7d6ba42"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/065_we_bare_bears.webp",
+    "asset": "asset:collection:bears:115",
+    "chapter": "CH-023",
+    "sha256": "a64f13afd2d283dcc75da0a35de41e90a9c94459cea620e65a02730f1b41380b"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/066_we_bare_bears.webp",
+    "asset": "asset:collection:bears:116",
+    "chapter": "CH-024",
+    "sha256": "7472ba1886884ebcf15c9ae177964e3ca77fdeadc291ddcde873a52d60b6f0d9"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/067_we_bare_bears.webp",
+    "asset": "asset:collection:bears:117",
+    "chapter": "CH-026",
+    "sha256": "0c628107c7b1e33dee427c9f8f533ce19f79937f8afae1c3fb7e20f8e242dadb"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/068_we_bare_bears.webp",
+    "asset": "asset:collection:bears:118",
+    "chapter": "CH-027",
+    "sha256": "ba162046c7957531becc5676e97dffc39ee3a7d0416cbf77e883e8aeb4fe4ca1"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/069_we_bare_bears.webp",
+    "asset": "asset:collection:bears:119",
+    "chapter": "CH-028",
+    "sha256": "2a98929efea65002b797a0b8d55405192dc4497bcf3e7506d4dd695998cb362f"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/070_we_bare_bears.webp",
+    "asset": "asset:collection:bears:120",
+    "chapter": "CH-029",
+    "sha256": "e7de7fb9bf1bdcc64177ec9e700c8957895e12ffc60c68c7b1d4fae25dcf1fa9"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/071_we_bare_bears.webp",
+    "asset": "asset:collection:bears:121",
+    "chapter": "CH-030",
+    "sha256": "2d7cc4cc57e28105f1ab886fdc3182771c6784ddb4957734805e0ec1ad248666"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/072_we_bare_bears.webp",
+    "asset": "asset:collection:bears:122",
+    "chapter": "CH-031",
+    "sha256": "e6912308260f0f872f4d2d3c3a18f14cb22ba2e4f2ff070c1c662e7559034eb6"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/073_we_bare_bears.webp",
+    "asset": "asset:collection:bears:123",
+    "chapter": "CH-032",
+    "sha256": "871e73260bd09c10450ec04e55c0d826e74a9794d5eea08ef1e4cc6ec1addb66"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/074_we_bare_bears.webp",
+    "asset": "asset:collection:bears:124",
+    "chapter": "CH-034",
+    "sha256": "8fdbf6eb8af27e5121f51d520f5bf11314e9661f4dc4ae010e6fd9242dbe2077"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/075_we_bare_bears.webp",
+    "asset": "asset:collection:bears:125",
+    "chapter": "CH-000",
+    "sha256": "6f3bd7f6ff55fd5d888d75d7ad9fd24b96e906cb3a0305fd8c21297a4dd45899"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/076_we_bare_bears.webp",
+    "asset": "asset:collection:bears:126",
+    "chapter": "CH-001",
+    "sha256": "3918e3fb3648cbec478362c90569c80001db118892b80c34d7b7831a764ba1d1"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/077_we_bare_bears.webp",
+    "asset": "asset:collection:bears:127",
+    "chapter": "CH-002",
+    "sha256": "d247e4f3e389b1a21defcff6a030f697f0e551977dfcd723b7f6ab90385f7246"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/078_we_bare_bears.webp",
+    "asset": "asset:collection:bears:128",
+    "chapter": "CH-003",
+    "sha256": "d8b60e62932577e80077efddc712783f3a94cda90b7048a6d6a0c44c853885b7"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/079_we_bare_bears.webp",
+    "asset": "asset:collection:bears:129",
+    "chapter": "CH-004",
+    "sha256": "e082f9f73bc7ce10a8069ff6cf00b9ac88f188145f4f68dd36604a98c64de278"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/080_we_bare_bears.webp",
+    "asset": "asset:collection:bears:130",
+    "chapter": "CH-005",
+    "sha256": "b4f9be24a071be55b010022923aad378df9d476632c7872f359bab43c2edba79"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/081_we_bare_bears.webp",
+    "asset": "asset:collection:bears:131",
+    "chapter": "CH-006",
+    "sha256": "15525890ce4bfb6bc7ad5fa5817cb73f06cb4bf89ae732e35799c0ed03bde7dd"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/082_we_bare_bears.webp",
+    "asset": "asset:collection:bears:132",
+    "chapter": "CH-007",
+    "sha256": "6464f303afaca025f48915b0064944ef56c06b64199ca0e6aa3d1aebd300b37b"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/083_we_bare_bears.webp",
+    "asset": "asset:collection:bears:133",
+    "chapter": "CH-008",
+    "sha256": "5453fa2ee62497cfdb6e3acf3205f814c3cfbe8d6da7fb066e9b5258b222292b"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/084_we_bare_bears.webp",
+    "asset": "asset:collection:bears:134",
+    "chapter": "CH-009",
+    "sha256": "cf5810bb6f2f46d1c451984d464e10fd958a0cc890902c58d8eea914e646b2de"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/085_we_bare_bears.webp",
+    "asset": "asset:collection:bears:135",
+    "chapter": "CH-010",
+    "sha256": "b70851a3bfcc36947a52dc6cd2ae8d5fa483c0ae475c94e16bd93cb36e719e18"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/086_we_bare_bears.webp",
+    "asset": "asset:collection:bears:136",
+    "chapter": "CH-011",
+    "sha256": "717dd512c3ade15bce32dab813dba4dfe9a31d2e1dc31bb1c07c0ad0915f8298"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/087_we_bare_bears.webp",
+    "asset": "asset:collection:bears:137",
+    "chapter": "CH-012",
+    "sha256": "61723545a1cad7f55dab325b8afbab768f6196dfc42187d723c2b1dc923167d3"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/088_we_bare_bears.webp",
+    "asset": "asset:collection:bears:138",
+    "chapter": "CH-014",
+    "sha256": "967e3c37e33eabc9e9c8b69173ed4be242771664ef0c14b4d6f8a6e7b7a6c9bd"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/089_we_bare_bears.webp",
+    "asset": "asset:collection:bears:139",
+    "chapter": "CH-016",
+    "sha256": "093ee0b38084aa4f828cc76ef6982f1fbf921924e24e5ab136054f6c7054c75f"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/090_we_bare_bears.webp",
+    "asset": "asset:collection:bears:140",
+    "chapter": "CH-017",
+    "sha256": "e38a3964998c6147da150d70ba44cf8d08eadd61b8294965de9f8a8dc2670c61"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/091_we_bare_bears.webp",
+    "asset": "asset:collection:bears:141",
+    "chapter": "CH-018",
+    "sha256": "8a4eb9783a0c511640358aa155f9bc84da98f4b1fa6e3cdd26b9fc6b84950f0c"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/092_we_bare_bears.webp",
+    "asset": "asset:collection:bears:142",
+    "chapter": "CH-019",
+    "sha256": "c9f88be01b43eeb998f1ea88111aca55ae9cf6596ed3e599eae06b7b73f706c2"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/093_we_bare_bears.webp",
+    "asset": "asset:collection:bears:143",
+    "chapter": "CH-020",
+    "sha256": "4f1f91bd2c936fa519c3def1d8940677124b25b7a5a7c09ff5b1fbfd1eae19b7"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/094_we_bare_bears.webp",
+    "asset": "asset:collection:bears:144",
+    "chapter": "CH-021",
+    "sha256": "aa70d7bdae0c3d31bbf51430d11789d32cdd65801ae237d03e2bb3c49d7f4058"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/095_we_bare_bears.webp",
+    "asset": "asset:collection:bears:145",
+    "chapter": "CH-022",
+    "sha256": "b2380f24609318c30b228b41767083e1801f4e2cf62aa3f474ed1d78b3583629"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/096_we_bare_bears.webp",
+    "asset": "asset:collection:bears:146",
+    "chapter": "CH-023",
+    "sha256": "1f2bccd93c89d6e1123102f375d741750689ce608a807830c9aa9304e53802f8"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/097_we_bare_bears.webp",
+    "asset": "asset:collection:bears:147",
+    "chapter": "CH-024",
+    "sha256": "fb500176ca743fc0462ff1d03ade16c0e85ecdbd4400fa1b456707e95ca82cff"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/098_we_bare_bears.webp",
+    "asset": "asset:collection:bears:148",
+    "chapter": "CH-026",
+    "sha256": "789db8ef6f25ffe6734c38dceaed863d2ede57b245ac8ef1b741357e37b9da65"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/099_we_bare_bears.webp",
+    "asset": "asset:collection:bears:149",
+    "chapter": "CH-027",
+    "sha256": "8f0028ad6459e0f94b9ef2f1cd35afa4bea3330d86992a94008eaea8883d8b6d"
+  },
+  {
+    "file": "incoming/WeBareBears_150/static/100_we_bare_bears.webp",
+    "asset": "asset:collection:bears:150",
+    "chapter": "CH-028",
+    "sha256": "e76e8304e922d284714580fa794b1af71ba233542a98f3f239e90cdf5c8d0322"
+  }
+]

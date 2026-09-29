@@ -1,0 +1,752 @@
+[
+  {
+    "file": "static/001_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/98fefae847762bf953fe882c92a4330a.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/002_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/d248f876e69c4ae8ae892d5023a0a278.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/003_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/68df94cd06e7cdfc4d77ed3c1d6be6e1.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/004_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/86626af4e04e5e7f2a8f7f1096c022ea.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/005_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/fb87af4df83422183e02225d206ed1b9.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/006_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/f75e6baac3da2005187dba8f4c5ead50.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/007_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/10669d791cea16838516c30b704cbda8.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/008_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/5e58668429f5f7699ebb6164ed9744fc.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/009_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/80e4b490102c7d34308ad22e216512da.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/010_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/a08e6d2ac7e63f32238d64f83f7183f5.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/011_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/9c18079fd2e514fa8c2287a30cf7b570.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/012_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/e33a9ea14aaa5b12d15ae5252671c7ed.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/013_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/c73b0ecbf6819a99da947af714f6baba.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/014_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/7b3523d859979d191eb26019916d28de.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/015_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/32f0e988eb2b8100b9189534b467d25f.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/016_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/1965288b6524d8c66594a00146e97f3d.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/017_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/dc5a5e0f35ab317fd8746d7e87536c36.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/018_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/27cbf33e5c807916983ed3329da26098.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/019_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/ddef5ab8c5497b23be774c3177db629a.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/020_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/8742125f7b7741518ccf3b398e33649c.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/021_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/1e89314339725623da2dafc5243d077d.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/022_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/97ba0c75ca0ad8c6ef604dc0ce5835f7.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/023_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/1134cf54aa571f376cf5212c4c5b9205.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/024_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/32988a12ee08ca38c5cd6818d4843a9d.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/025_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/4a49c26336f883a0b293405d878bb379.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/026_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/42c1aac766d7cc6031c89baba32f1fbc.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/027_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/565e037af86598b770f5f82005be268d.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/028_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/9beccdbe838ba558b5d47e446f05e947.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/029_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/da92dd664e1a213e861076ce609417c8.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/030_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/34c3a5c1eab61b46e60d95507de38a59.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/031_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/9b23e1e9eeba767450122cf10599eb0b.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/032_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/07b4913e76f2aedd5ec64b2e7e75895c.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/033_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/032accc7b40f61e4094246494b7a421a.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/034_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/640451cdff92f4b88d6c4f3c4dff8853.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/035_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/c1123ae888e718b1ab32d41df0f2bee3.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/036_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/e51472a7f457bfd159202212a095eda1.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/037_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/68215bf23acfb5df5ccdd90815ac2ec5.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/038_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/14ea8b1a8615bdc9fcc90ecbc8b62b56.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/039_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/0146df9a6463b94acee202994d5a5adc.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/040_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/758be8b6b36f2d3283cb29be01b56c8f.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/041_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/a5d2d21f2b2620913962f0b9a7a873f2.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/042_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/499d0a1416b185e22617558add04684b.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/043_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/9cfec9fc41d26401085291a8d67348b7.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/044_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/7be0533298469d05eb3ec4c97d13ba85.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/045_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/6b4514ffa93569886eea03c7582b6bf9.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/046_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/a7c847232a93a4236e4f542255ac112d.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/047_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/94cad519306e6173e59659bbbd428054.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/048_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/a5da638e9cefe83af358190122339bea.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/049_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/c57a22bbf4f71d4c1f22df8d4080c809.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/050_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/ba9ee081927604027593429bdad987cd.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/051_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/f979f11a6da1e42082e328fa20cad4b7.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/052_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/5b156049e7723b9f33e8a8b968c85623.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/053_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/0d84598e4d03ab1de2fafa5ba36b57c8.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/054_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/1d2b8580c2f023037de802ae0c88c28f.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/055_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/ae4812989fa32f71e35723b1b7f923c6.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/056_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/841468da37994fc47877a26d6efd2792.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/057_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/f76bfcbcdb38010c0581ecb09b41b7e5.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/058_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/f4480457d840b663288641e7190b5010.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/059_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/ac0e5f062d670638412420b56d4f338b.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/060_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/e033085f0c6b9b7b5a40d8293f5bcbc0.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/061_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/6eb82d477fde328130865b3f3ef53d89.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/062_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/c2d5de47daa3f3bc956d4034f5e30543.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/063_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/c4d4605b6c503cc7a415556de2b4f4fd.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/064_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/8c415f6a3158423544f0692134aed855.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/065_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/bbc4385763f7e66eb113667f8857058f.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/066_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/097832f61c4b5419b2f79b1490212e36.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/067_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/0edd0299d458bc8e9dae807c81cd81be.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/068_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/c1946db569bcf9eb19371742b5b77deb.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/069_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/1fb707b07719db51508ff4741a6a19aa.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/070_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/7fa1d4ea6bda6a8ef1c6d72c20daf670.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/071_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/d3b1053330609a16d20485fdd482b3a4.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/072_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/b9a822b791d995bd7d9552953d61f93c.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/073_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/58041cdcd799f040a8010982972b0b0f.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/074_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/613066dfa36edf7019320af38fe27f8c.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/075_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/a733076a22e23f17261182d36833ba86.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/076_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/4e4fcdf5aabd01ecfa48b99af58ee168.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/077_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/fc8d181db7e166a8348f6917e3ed11c1.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/078_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/a5caea2bff968cb62d409357e2c6bf4f.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/079_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/d0f866673b05ef42c899548d62fd942c.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/080_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/01e1974ce443b2d3b2a8619bd3936c83.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/081_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/57f46a71995d971b93de313473839490.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/082_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/5892b608245afe22021f7fb64f1016a5.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/083_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/e3f5c07707329847bb6dc6d3ae099b96.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/084_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/0cece8a3f7cd5028a3271f9adcac7f55.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/085_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/2fa70feb82588777b29588845123c162.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/086_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/41e7480679d21bc645bad51d5b01fbf7.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/087_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/67d2fa7d6c4e94084066778c4e20ea37.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/088_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/aea014050da6787bef1d46c388724c8f.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/089_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/f87254d0bb03aa1d9a4c0a7b3474a7aa.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/090_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/71510e6506337d7c4fc5b4bd56f8c444.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/091_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/5947ef2af88439af322610757b4b37ef.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/092_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/5858a948ee2dd9da6109646f2b6b00e5.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/093_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/39ded3295aa10c951819cb80b6975a79.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/094_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/21072ee134a2b59b574f54545d44b098.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/095_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/d89ef645c979d1e3d0b5ec06aa638a6e.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/096_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/9e2f5557038fdeae410625fa1738343d.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/097_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/e71fffb7cbfee5699627233d9159062c.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/098_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/8b5bb45094081329d86d2cc1d383ab2f.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/099_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/75fa93fb3ffa5a486c0cd8f6cd8c8702.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "static/100_we_bare_bears.webp",
+    "source": "https://assets.stickers.wiki/img/23e132dd93e3dd09b22d244863bcb4c3.webp",
+    "type": "static-webp"
+  },
+  {
+    "file": "gif/001_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/yQb7zHGewDn4sctJNe/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/002_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/XJtM2nNFCzT3etvzOB/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/003_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/J149CqZHKoDm1jOlJO/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/004_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/cJ4v3Vts7hcBAC1iDy/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/005_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/1hM7JAm3eUIstEQ5yP/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/006_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/cKhUdc5CXwiyzRqVbZ/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/007_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/hqPB6Z5U9s0a8uorsS/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/008_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/vQfZEPWeltONQOAbBW/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/009_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/5QUJlxjSY0iaxKqwvu/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/010_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/J2azbp3OzBBACIIMIq/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/011_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/Ri98Ht4Q9hczOeHC1E/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/012_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/wNsUmmUQSCFdI1fXBU/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/013_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/fYwnatvagHp0Yu2eGq/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/014_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/YRJB9elY0ijGLNXX1S/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/015_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/KH2RTYdC9ZsMfVUSYB/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/016_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/loG7UiXlMCaimkqwKd/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/017_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/d7rPgSQVPMbAGWEwB9/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/018_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/Hli8TPNgCeLd7vfwlV/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/019_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/LS8dIaRdiTEFVBSxDF/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/020_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/eNGI6PryTbx7yXrghp/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/021_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/SwCrrceL9EttplsXsg/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/022_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/McmznQy3AQFHsUuG8g/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/023_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/lsuXi3guZJWJYh9PWm/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/024_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/J4bDLiNG82THFn4L2i/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/025_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/SvKUynGhjPvJ7snk3R/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/026_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/YpxUAn3GTva3djJ2Bc/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/027_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/qj9xf4zxSxUKciCQJ8/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/028_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/Ye1UDrYH2T1GPPunVb/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/029_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/VFt6mSYlehm00zUUJe/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/030_we_bare_bears.gif",
+    "source": "https://media.giphy.com/media/jrqezdiG5mkjifnO9e/200.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/031_we_bare_bears.gif",
+    "source": "https://media1.tenor.com/m/fnXTq99gitUAAAAC/space-bears-moon.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/032_we_bare_bears.gif",
+    "source": "https://media.tenor.com/fnXTq99gitUAAAAM/space-bears-moon.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/033_we_bare_bears.gif",
+    "source": "https://media.tenor.com/rczzo2UDmYMAAAAM/we-bare-bears.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/034_we_bare_bears.gif",
+    "source": "https://media.tenor.com/OOGX8yBATN0AAAAM/ice-bear-baby-bear.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/035_we_bare_bears.gif",
+    "source": "https://media.tenor.com/QIN6PZDZWI4AAAAM/ice-bear.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/036_we_bare_bears.gif",
+    "source": "https://media.tenor.com/2mHsa0b7zVMAAAAM/panda-bear.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/037_we_bare_bears.gif",
+    "source": "https://media.tenor.com/z1_vdv2f72sAAAAM/vacation-we-bare-bears.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/038_we_bare_bears.gif",
+    "source": "https://media.tenor.com/-EEhJHqTwBkAAAAM/giving-heart-keepit.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/039_we_bare_bears.gif",
+    "source": "https://media.tenor.com/_UtWOpmkPq0AAAAM/sushichaeng-cartoon.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/040_we_bare_bears.gif",
+    "source": "https://media.tenor.com/mChstupCHCEAAAAM/bear-mafia-bears.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/041_we_bare_bears.gif",
+    "source": "https://media.tenor.com/cDeLsbnssS4AAAAM/wind-god-fist-ewgf.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/042_we_bare_bears.gif",
+    "source": "https://media.tenor.com/4icUd4Qm4AUAAAAM/dancing-grizzly-bear.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/043_we_bare_bears.gif",
+    "source": "https://media.tenor.com/ktyqTbwBKHUAAAAM/ice-bear-icebear.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/044_we_bare_bears.gif",
+    "source": "https://media.tenor.com/-SvgCb06XjMAAAAM/we-bare-bears-wbb.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/045_we_bare_bears.gif",
+    "source": "https://media.tenor.com/S70pn_Ub9NkAAAAM/we-bare-bears-ice-bear.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/046_we_bare_bears.gif",
+    "source": "https://media.tenor.com/E6ayJVBhoNgAAAAM/laughing-ice-bear.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/047_we_bare_bears.gif",
+    "source": "https://media.tenor.com/ZoYDvuVAEAYAAAAM/anime.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/048_we_bare_bears.gif",
+    "source": "https://media.tenor.com/4D0hGR4UVlgAAAAM/in-love-bear.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/049_we_bare_bears.gif",
+    "source": "https://media.tenor.com/1rj9JbMzSn8AAAAM/dangbac.gif",
+    "type": "gif"
+  },
+  {
+    "file": "gif/050_we_bare_bears.gif",
+    "source": "https://media.tenor.com/KPFcQpBYFmAAAAAM/we-bare-bears-ice-bear.gif",
+    "type": "gif"
+  }
+]
